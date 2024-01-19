@@ -5,11 +5,7 @@
 - Open terminal
 - `git clone https://github.com/mikaelalvianrizky/ktp-classifier.git`
 - `cd ktp-classifier`
-- Create virtual environment
-- `python -m venv env`
-- Activate virtual environment
-- `env\Script\activate` 
-- Install the requirements
-- `pip install -r requirements.txt`
-- Start the project
-- `flask run`
+- Create virtual environment `python -m venv env`
+- Activate virtual environment `env\Script\activate` 
+- Install the requirements `pip install -r requirements.txt`
+- Start the project `flask run`
